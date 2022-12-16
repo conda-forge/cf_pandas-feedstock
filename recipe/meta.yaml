@@ -1,5 +1,5 @@
 {% set name = "cf_pandas" %}
-{% set version = "0.3.2" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/cf_pandas-{{ version }}.tar.gz
-  sha256: 189c17fe8e9320b0fff067447d6ad7441d0f5323e20b8736948174ab22662bd7
+  sha256: f001591d29fd1a96ceb19dcd418040377a115a06dd4a3cdd78cdfb0bf8017aa6
 
 build:
   noarch: python
