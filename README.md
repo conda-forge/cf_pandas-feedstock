@@ -1,11 +1,11 @@
-About cf_pandas
-===============
+About cf_pandas-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cf_pandas-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/axiom-data-science/cf-pandas
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cf_pandas-feedstock/blob/main/LICENSE.txt)
 
 Summary: an accessor for pandas objects that interprets CF attributes
 
